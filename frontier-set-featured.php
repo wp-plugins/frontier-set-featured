@@ -4,11 +4,11 @@ Plugin Name: Frontier Set Featured
 Plugin URI: http://wordpress.org/extend/plugins/frontier-set-featured
 Description: Set featured image automatically from images in the post. Will respect manually added Featured Image
 Author: finnj
-Version: 1.0.1
+Version: 1.0.4
 Author URI: http://http://wordpress.org/extend/plugins/frontier-set-featured
 */
 
-define('FRONTIER_SET_FEATURED_VERSION', "1.0.1"); 
+define('FRONTIER_SET_FEATURED_VERSION', "1.0.4"); 
 define('FRONTIER_frontier-set-featured_DIR', dirname( __FILE__ )); //an absolute path to this directory
 
 function frontier_set_featured_image($post_id)
