@@ -3,8 +3,8 @@ Contributors: finnj
 Donate link: 
 Tags: Featured Image, Featured, Thumbnail, Frontier, Frontier Post  
 Requires at least: 3.4.0
-Tested up to: 4.1
-Stable tag: 1.0.5
+Tested up to: 4.1.1
+Stable tag: 1.0.6
 License: GPL v3 or later
  
 Frontier Set Featured will set featured image from images in the post if no featured image is set by the user. 
@@ -37,6 +37,9 @@ None
 none - Plugin works on activation and has no user interface.
 
 == Changelog ==
+
+= 1.0.6 =
+* Tested up to: 4.1.1.
 
 = 1.0.5 =
 * Tested and works with Wordpres version 4.1
