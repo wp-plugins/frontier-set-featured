@@ -3,7 +3,7 @@ Contributors: finnj
 Donate link: 
 Tags: Featured Image, Featured, Thumbnail, Frontier, Frontier Post  
 Requires at least: 3.4.0
-Tested up to: 4.1.1
+Tested up to: 4.2
 Stable tag: 1.0.6
 License: GPL v3 or later
  
